@@ -1,0 +1,32 @@
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\bin\Debug\RegApp.exe.config
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\bin\Debug\RegApp.exe
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\bin\Debug\RegApp.pdb
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.csproj.AssemblyReference.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\MainWindow.g.cs
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\App.g.cs
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp_MarkupCompile.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp_MarkupCompile.lref
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\MainWindow.baml
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.g.resources
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.Properties.Resources.resources
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.csproj.GenerateResource.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.csproj.CoreCompileInputs.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.exe
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.pdb
+D:\1_обучение\урок 11 веб\RegApp\RegApp\bin\Debug\RegApp.exe.config
+D:\1_обучение\урок 11 веб\RegApp\RegApp\bin\Debug\RegApp.exe
+D:\1_обучение\урок 11 веб\RegApp\RegApp\bin\Debug\RegApp.pdb
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp.csproj.AssemblyReference.cache
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp.csproj.SuggestedBindingRedirects.cache
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\MainWindow.g.cs
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\App.g.cs
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp_MarkupCompile.cache
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp_MarkupCompile.lref
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\MainWindow.baml
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp.g.resources
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp.Properties.Resources.resources
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp.csproj.GenerateResource.cache
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp.csproj.CoreCompileInputs.cache
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp.exe
+D:\1_обучение\урок 11 веб\RegApp\RegApp\obj\Debug\RegApp.pdb
